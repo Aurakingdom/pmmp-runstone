@@ -1,0 +1,5 @@
+name: RuneStone
+version: 1.0
+api: 3.0.0
+main: phuongaz\RuneStone\Loader
+author: phuongaz
