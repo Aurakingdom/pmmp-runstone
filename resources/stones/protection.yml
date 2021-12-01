@@ -1,0 +1,22 @@
+---
+name: "PROTECTION STONE"
+
+id: "1:1" #id:meta
+
+lore:
+  - "Example stone"
+  - "Example stone"
+
+chance: 19 #0.1 -> 100%
+stats:
+  HP: 2
+  ATK: 1
+  DEF: 10
+  
+enchant:
+
+  custom: [] #Support PiggyCustomEnchant [WIP]
+
+  vanilla:
+    - "1:10"
+...
